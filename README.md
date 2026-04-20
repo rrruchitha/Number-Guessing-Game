@@ -20,4 +20,4 @@ _1 is displayed if the user wins_
 _0 is displayed if the user loses_
 
 ***Thankyou***
-<img width="1635" height="824" alt="Screenshot 2026-04-21 024431" src="https://github.com/user-attachments/assets/8f1ac8c2-216e-415a-9630-c63cddafb1bc" />
+<img width="1035" height="746" alt="image" src="https://github.com/user-attachments/assets/305a3c70-7ce0-4254-80e4-f83da3088210" />
